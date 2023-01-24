@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/niakiachannell5
 [instagram]: https://www.instagram.com/niakiachannell
-[linkedin]: https://linkedin.com/in/niakia-channell
+[linkedin]: https://linkedin.com/in/niakiachannell
